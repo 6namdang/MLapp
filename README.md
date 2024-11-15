@@ -1,2 +1,2 @@
 # MLapp
-Implementation of machine learning app
+Implementation of machine learning models
